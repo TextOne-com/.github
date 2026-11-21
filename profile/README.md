@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TextOne-com/.github/main/profile/logo.svg" alt="Text One" width="120" />
+  <img src="https://raw.githubusercontent.com/TextOne-com/.github/main/profile/logo-horizontal.svg" alt="Text One" width="380" />
 </p>
-
-<h1 align="center">Text One</h1>
 
 <p align="center">
   <b>School textbooks that help students grow.</b><br />
