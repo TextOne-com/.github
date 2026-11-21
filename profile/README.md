@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TextOne-com/textone-ui/main/apps/histoire/public/logo.svg" alt="Text One" width="96" />
+  <img src="logo.svg" alt="Text One" width="120" />
 </p>
 
 <h1 align="center">Text One</h1>
