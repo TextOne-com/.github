@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TextOne-com/.github/main/profile/logo-horizontal.svg" alt="Text One" width="380" />
+  <img src="https://raw.githubusercontent.com/TextOne-com/.github/main/profile/banner.svg" alt="Text One" width="100%" />
 </p>
 
 <p align="center">
